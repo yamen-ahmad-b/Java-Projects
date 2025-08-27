@@ -37,7 +37,7 @@ public class Main {
             }
 
             System.out.println("Do you want to continue? (yes/no): ");
-            choice = sc.next(); // بيسمح للمستخدم يقرر يكمل أو يوقف
+            choice = sc.next(); 
 
         } while (choice.equalsIgnoreCase("yes"));
 
