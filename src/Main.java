@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 public class Main {
     public static void main(String[] args) {
@@ -99,4 +98,3 @@ sc.close();
 
     }
 }
->>>>>>> 3b1b0872727d2b774b2f31835fb06346347cb1d1
