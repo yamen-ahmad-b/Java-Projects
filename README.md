@@ -19,6 +19,14 @@ A project to demonstrate the basics of **Object-Oriented Programming (OOP)** in 
 - A `Main` class to create and test multiple car objects
 - Shows how to work with **classes, objects, and methods**
 
+### 🎓 University Student Manager
+A **Java console application** to manage university students:
+- Dynamically add students and store their information
+- Check if each student has **passed ✅** or **failed ❌** based on GPA
+- Uses **Scanner**, **ArrayList**, loops, and conditionals
+- Demonstrates **OOP principles** with a `Student` class and methods like `isPassed()` and `getInfo()`
+- Displays all students’ information in a clean, readable format
+
 ---
 
 ## ✨ Features
